@@ -1,0 +1,27 @@
+img{
+    height: 500px;
+    width: 500px;
+}
+
+body{
+    margin: 75px 200px;
+    background-color: lightskyblue;
+}
+h1{
+	text-align: center;
+
+}
+h2.Heading2{
+	font-style: sans-serif;
+	font-size: 42px;
+}
+main{
+	background-color: lightcoral;
+	
+}
+header{
+	background-color: lightskyblue;
+}
+#fancy{
+	font-family: cursive;
+}
